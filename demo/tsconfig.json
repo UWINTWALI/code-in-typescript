@@ -1,0 +1,9 @@
+{
+    "compilerOptions":{
+        "target": "es6",
+        "strict": true,
+        "outDir": "./dist",
+        "module": "es6"
+    },
+    "include" : ["index.ts"],
+}
